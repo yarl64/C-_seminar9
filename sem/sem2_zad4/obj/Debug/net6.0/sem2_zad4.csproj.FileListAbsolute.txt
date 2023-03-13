@@ -1,0 +1,15 @@
+C:\Users\-_-\Desktop\Tester GeekBrains\Знакомство с языками программирования\Seminars_C#\sem\sem2_zad4\bin\Debug\net6.0\sem2_zad4.exe
+C:\Users\-_-\Desktop\Tester GeekBrains\Знакомство с языками программирования\Seminars_C#\sem\sem2_zad4\bin\Debug\net6.0\sem2_zad4.deps.json
+C:\Users\-_-\Desktop\Tester GeekBrains\Знакомство с языками программирования\Seminars_C#\sem\sem2_zad4\bin\Debug\net6.0\sem2_zad4.runtimeconfig.json
+C:\Users\-_-\Desktop\Tester GeekBrains\Знакомство с языками программирования\Seminars_C#\sem\sem2_zad4\bin\Debug\net6.0\sem2_zad4.dll
+C:\Users\-_-\Desktop\Tester GeekBrains\Знакомство с языками программирования\Seminars_C#\sem\sem2_zad4\bin\Debug\net6.0\sem2_zad4.pdb
+C:\Users\-_-\Desktop\Tester GeekBrains\Знакомство с языками программирования\Seminars_C#\sem\sem2_zad4\obj\Debug\net6.0\sem2_zad4.csproj.AssemblyReference.cache
+C:\Users\-_-\Desktop\Tester GeekBrains\Знакомство с языками программирования\Seminars_C#\sem\sem2_zad4\obj\Debug\net6.0\sem2_zad4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\-_-\Desktop\Tester GeekBrains\Знакомство с языками программирования\Seminars_C#\sem\sem2_zad4\obj\Debug\net6.0\sem2_zad4.AssemblyInfoInputs.cache
+C:\Users\-_-\Desktop\Tester GeekBrains\Знакомство с языками программирования\Seminars_C#\sem\sem2_zad4\obj\Debug\net6.0\sem2_zad4.AssemblyInfo.cs
+C:\Users\-_-\Desktop\Tester GeekBrains\Знакомство с языками программирования\Seminars_C#\sem\sem2_zad4\obj\Debug\net6.0\sem2_zad4.csproj.CoreCompileInputs.cache
+C:\Users\-_-\Desktop\Tester GeekBrains\Знакомство с языками программирования\Seminars_C#\sem\sem2_zad4\obj\Debug\net6.0\sem2_zad4.dll
+C:\Users\-_-\Desktop\Tester GeekBrains\Знакомство с языками программирования\Seminars_C#\sem\sem2_zad4\obj\Debug\net6.0\refint\sem2_zad4.dll
+C:\Users\-_-\Desktop\Tester GeekBrains\Знакомство с языками программирования\Seminars_C#\sem\sem2_zad4\obj\Debug\net6.0\sem2_zad4.pdb
+C:\Users\-_-\Desktop\Tester GeekBrains\Знакомство с языками программирования\Seminars_C#\sem\sem2_zad4\obj\Debug\net6.0\sem2_zad4.genruntimeconfig.cache
+C:\Users\-_-\Desktop\Tester GeekBrains\Знакомство с языками программирования\Seminars_C#\sem\sem2_zad4\obj\Debug\net6.0\ref\sem2_zad4.dll
